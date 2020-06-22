@@ -1,2 +1,3 @@
 # Weather-App
 This project will help you to get the weather info...
+In this project i used Java Swing,Open Weather API , JSON Parser
